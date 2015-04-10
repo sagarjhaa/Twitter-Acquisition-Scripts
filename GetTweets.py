@@ -10,7 +10,7 @@ import dbf
 
 
 
-FieldList = ["TeetID","Text","Lat","Lon","TeetTime","UserID","UserName"]
+FieldList = ["TweetID","Text","TweetTime","Lat","Lon","UserID","UserName"]
 # field list
 
 
@@ -18,10 +18,10 @@ FieldList = ["TeetID","Text","Lat","Lon","TeetTime","UserID","UserName"]
 OAUTH
 '''
 
-CONSUMER_KEY = "eVpxb6Qe6hWIhjDRjK7biGKsh"
-CONSUMER_SECRET = "AmWbZYNtK0QEIvEofVU2sPwhaAgCUU51bktgAklqwfiokY63CZ"
-OAUTH_TOKEN = "96602458-ug7fJba07XeEC47VMMzqKDRkkC65RXXKHB7TpVcnu"
-OATH_TOKEN_SECRET = "eWYmwQ8Z2Scs7fSUAXdDTUKFyRExfkE7CAq4PSpmodPoa"
+CONSUMER_KEY = "fill your own CONSUMER_KEY "
+CONSUMER_SECRET = "fill your own CONSUMER_SECRET"
+OAUTH_TOKEN = "fill your own OAUTH_TOKEN"
+OATH_TOKEN_SECRET = "fill your own OATH_TOKEN_SECRET"
 
 
 
